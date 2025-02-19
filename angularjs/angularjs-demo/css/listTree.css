@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+}
+.catalog.expand>img.hierarchy-collapse{
+    visibility: visible;
+}
+
+.catalog>img.hierarchy-collapse{
+    visibility: hidden;
+}
+
+.catalog.expand>img.hierarchy-expand{
+    visibility: hidden;
+}
+
+.catalog>img.hierarchy-expand{
+    visibility: visible;
+}
